@@ -32,7 +32,7 @@ Neotro.addCommand({pattern: 'menu', fromMe: false, dontAddCommandList: true}, (a
        
        const button = {
         buttonText: 'Cʟɪᴄᴋ Hᴇʀᴇ',
-        description: "Hʏᴘᴇʀ Sɪʀ Bᴏᴛ  🔰",
+        description: "glitch gamer bot  🔰",
         sections: sections,
         listType: 1
        }
